@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plaine and true relation of the goodnes of God towards the Sommer Ilands written by way of exhortation, to stirre vp the people there to praise God. VVhereunto are added certaine questions and answers concerning the keeping holy of the Saboth day, and publicke exercises of religion, written in the Summer Ilands for the benefit of the people there. By Levves Hughes minister of Gods word.</title>
+            <author>Hughes, Lewes, fl. 1620.</author>
+         </titleStmt>
+         <extent>Approx. 81KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A03803</idno><idno type="EEBO-CITATION">99842047</idno>
+  <idno type="VID">6670</idno>
+  <idno type="EEBO-PROQUEST">2240899580</idno>
+  <idno type="STC">STC 13920</idno>
+  <idno type="STC">ESTC S106329</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842047e"/>
+            <note>(EEBO-TCP ; phase 2, no. A03803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1603:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plaine and true relation of the goodnes of God towards the Sommer Ilands written by way of exhortation, to stirre vp the people there to praise God. VVhereunto are added certaine questions and answers concerning the keeping holy of the Saboth day, and publicke exercises of religion, written in the Summer Ilands for the benefit of the people there. By Levves Hughes minister of Gods word.</title>
+                  <author>Hughes, Lewes, fl. 1620.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward All-de, dwelling neere Christs Church,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a catechism.</note>
+                  <note>Signatures: A-F⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catechisms, English.</term>
+               <term type="geographic_name">Bermuda Islands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:6670:1"/>
+            <pb facs="tcp:6670:1"/>
+            <p>A PLAINE AND TRVE RELATION OF THE GOODNES OF GOD towards the Sommer Ilands, written by way of exhortation, to stirre vp the people there to praise God.</p>
+            <p>VVHEREVNTO ARE ADDED CERTAINE QVESTI<g ref="char:EOLhyphen"/>ONS AND ANSWERS CONCER<g ref="char:EOLhyphen"/>NING THE KEEPING HOLY OF THE Saboth day, and publicke exercises of <hi>Religion, written in the Summer Ilands for the benefit of the people there.</hi>
+            </p>
+            <p>By LEVVES HVGHES Minister of Gods word.</p>
+            <p>
+               <hi>AT LONDON:</hi> Printed by <hi>Edward All-de,</hi> dwelling neere Christs Church. 1621.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:6670:2"/>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+            <p>striuing to keepe them in thankfull remembrance, and as occasion serueth, to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eake of them in all places, to stirre vp as many, as you can to praise God with you; I for my part will helpe what I can.</p>
+            <p n="1">1 First, let vs think vpon &amp; consider of the great good<g ref="char:EOLhyphen"/>nesse of God towards those Ilands in their first creation; how God did then inuiron and fortifie them about, with fearefull Rocks and sholes; by meanes whereof, you dwell as safe from forraigne inuasion, as any people in the world, which is a great comfort.</p>
+            <p n="2">2 Consider we also, how Almighty God by his graci<g ref="char:EOLhyphen"/>ous prouidence; in their first creation did fit them with two goodly and large harbours, with such curious &amp; nar<g ref="char:EOLhyphen"/>row comming in, as few men in the Plat-formes and Forts on both sides the Channels are able (by the helpe of God) to sinke all Ships of Enemies that shall offer to come in.</p>
+            <p n="3">3 Note also the goodnesse of God towards you in the matter of artificiall fortification, in that, howsoeuer at the arriuall of Captaine <hi>Nathaniell Butler</hi> your Gouernour, there was by former neglects, a generall decay that way; yet, within the space of one onely yeare, we haue attained to that perfection, that the particulers following men<g ref="char:EOLhyphen"/>tion: As first, at the Kings Castle, there are at this present 18. great Peeces excellently mounted, the most of them vpon new Cariages of Caedars; and fiue more are moun<g ref="char:EOLhyphen"/>ted in Southampton Fort, newly made by Captaine <hi>But<g ref="char:EOLhyphen"/>ler,</hi> which flankers the Kings Castle so, that there are in all 23. Peeces of Ordinance that play vpon the mouth of that Harbour.</p>
+            <p>At <hi>Pembroke</hi> Fort there are two great Peeces; in <hi>Pa<g ref="char:EOLhyphen"/>gets</hi> Fort fiue; and in <hi>Smithes</hi> Fort fiue, the which two last Forts command the mouth of the Harbour of S<seg rend="sup">t</seg>. <hi>Georges.</hi>
+            </p>
+            <pb facs="tcp:6670:2"/>
+            <p>At <hi>Warwick</hi> Fort are three more to commaund that Harbour: At the Towne before the Gouernors house are eight to commaund the Harbour, and to keepe Shallops from landing; another at the foote of the Mount, to serue for a Warning-Peece; and at S<seg rend="sup">t</seg>. <hi>Katherines</hi> Fort two, to skoure that Bay: In all, you haue at the present 53. Pee<g ref="char:EOLhyphen"/>ces of great Ordinance very well mounted, whereof 26. are newly mounted by Captaine <hi>Butler,</hi> and most of all the other so repaired, as that now they are become fully ser<g ref="char:EOLhyphen"/>uiceable.</p>
+            <p>The Mount which was blowne downe with a terrible gust of winde, being the Eye of the Iland, and a great com<g ref="char:EOLhyphen"/>fort, because from the top of it, ships were discouered, is built againe by Captaine <hi>Butler,</hi> so that now these Ilands are well fitted and prepared both within and without, against all forraigne inuasions. Gods holy &amp; great name be therefore praised.</p>
+            <p n="4">4 Consider also of the goodnes of God, in reseruing and keeping these Ilands, euer since the beginning of the world, for the English Nation, and in not discouering them to any, to inhabit but to the English.</p>
+            <p n="5">5 Consider also of the manner, how they were disco<g ref="char:EOLhyphen"/>uered, and (by the mercy of God) made as a <hi>Ionas</hi> his Whale, to receiue into safety, men out of hope of life: I meane, when in the yeare of our Lord, 1609. eight sailes of Ships, were sent from England to Virginia; all which continued together from the 15. of May, till the 25. of Iu<g ref="char:EOLhyphen"/>ly, when (by reason of a storme, which continued three dayes, wherein they saw neither Sun, Moone, nor Starres) the Admirall, called the <hi>Sea: Aduenture,</hi> a Ship of 300. Tunnes, lost sight of the rest, and was ready to sinke euery houre, being nine foote deepe of water in the hold (the
+<pb facs="tcp:6670:3"/> storme still encreasing) and all the men out of hope of life, and tired with bailing and pumping: then (by the mercy of God) they discried these Ilands and within two houres after, the Shippe (ready to sinke, if shee had gone but her length further) did strike betweene two Rockes, where she stuck fast; then presently God shewed his mercy, and his power in rebuking the winde, so as it ceased, and the Sea, which before with euery waue, was ready to ouer-rake her, became quiet and calme, on the sodaine, and all with glad hearts went quietly to shore, praising God, who tur<g ref="char:EOLhyphen"/>neth the stormy winde into a calme, Psal. 107.29. and ru<g ref="char:EOLhyphen"/>leth the raging of the Sea, and stilleth the waues thereof when they rise, Psal. 89.10.</p>
+            <p>They remayned in ihese Ilands about ten moneths, and builded a couple of Pinnaces, with which they sayled to Virginia, and caried with them good store of powdred Porke and Bacon, made of wilde Hogges, whereof they found in these Ilands great plenty.</p>
+            <p>Also they caried liue Tortoyses, salted Birds, and salt Fish which they tooke and salted here, and therewith sa<g ref="char:EOLhyphen"/>ued many of their liues that were in <hi>Virginia,</hi> whom they found there ready to perish through want of food: Before that prouision was spent,<note place="margin">Ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irall of the Fleet.</note> Sir <hi>Geo. Summers</hi> returned hi<g ref="char:EOLhyphen"/>ther for more, and here ended his dayes. Sir <hi>Geo. Summers</hi> being dead, his men would not goe againe to <hi>Virginia,</hi> but came for England, &amp; left behind them in these Ilands three men; <hi>Edward Chard, Christofer Carter,</hi> and <hi>Edward Wa<g ref="char:EOLhyphen"/>ters<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n?</hi> these three they left here, because they would not goe with them (God did put into their hearts such loue and liking of these Ilands.) These three men found good store of Ambergreece to the value of 9000. pound, which I am perswaded, God brought into their hands of pur<g ref="char:EOLhyphen"/>pose
+<pb facs="tcp:6670:3"/> to encourage the Aduenturers to vndertake this Plantation.</p>
+            <p>Thus it pleased God to discouer these Ilands, in great mercy for the safety of them that were ready to perish in the Sea, and for the sauing of their liues also, who were ready to perish in <hi>Virginia,</hi> through want of food, though now they be (as I heare) in good estate, thanks be to God.</p>
+            <p>I am perswaded that Almighty God, who by his mira<g ref="char:EOLhyphen"/>culous and gracious prouidence, hath discouered and be<g ref="char:EOLhyphen"/>stowed these Ilands vpon our Nation, hath some great worke of wonder, to bring to passe by them, to his great glory: therefore be glad of them, and praise him for them, despise them not for the smalnesse of them, because Al<g ref="char:EOLhyphen"/>mighty God doth most commonly by small meanes bring great thinges to passe. And take heede that your sinnes doe not prouoke God to cut you off; so as your eyes shall not see, what God will bring to passe. The more to stirre you vp to praise God, consider how many wayes, God hath shewed his loue, and care of you, since your com<g ref="char:EOLhyphen"/>ming into these Ilands.</p>
+            <p n="1">1 You that were sent in the first Ship called the <hi>Plowe,</hi> with M<seg rend="sup">r</seg>. <hi>Richard Moore</hi> Gouernour, in the yeare of our Lord 1611. you were no sooner within the Harbour, but, for your welcome, God brought plenty of good Fish to the Ship side, which did attend vpon you, and follow the Boat to shore, where some did cast out of the water with their hands, so much as did suffice you all, which did re<g ref="char:EOLhyphen"/>ioyce you much.</p>
+            <p n="2">2 Consider also how (to your further ioy) God brought vnto you, the three men that were left in the Iland, all three in good health, fat and well liking, though out of clothes.</p>
+            <p n="3">
+               <pb facs="tcp:6670:4"/>3 Consider also how God by them had prouided an Acre of good Wheat, ripe and ready to be gathered, be<g ref="char:EOLhyphen"/>sides the Wheat that you found in their houses, with In<g ref="char:EOLhyphen"/>dian Beanes and Pease, and great store of ripe Pompions. Also you found Tortoyses ready taken, and by the proui<g ref="char:EOLhyphen"/>dence of God, rosted and sod so much, as sufficed you all.</p>
+            <p n="4">4 Consider also how bountifully God brought vnto you the Fowles of the ayre in great abundance, which did offer themselues to be taken by you, so as if one did but sit on the ground, &amp; make any mournfull noyse, more came to him, then he was able to kill and carrie away, so as one man in one houre, hath taken aboue thirty dozen.</p>
+            <p n="5">5 Consider also of the goodnesse of God, in blessing your first labour, in clearing of ground, and setting of Corne, so as by the blessing of God, you had great en<g ref="char:EOLhyphen"/>crease, notwithstanding that the Corne was set late.</p>
+            <p>Vpon your second Crop, (partly for the vnthankful<g ref="char:EOLhyphen"/>nesse of some, and partly for the triall of other some, God denied his blessing, so as you receiued not your seede againe, therefore feare of great want came vpon you: Then, euen then when your hearts began to be troubled with feare of want, Almighty God who neuer faileth nor forsaketh them that are his, did send you a comfortable supply vnlooked for.</p>
+            <p>While that was spending, your looking for more sup<g ref="char:EOLhyphen"/>plies out of England, and following Tobacco too gree<g ref="char:EOLhyphen"/>dily, did cause you to neglect setting of Corne, whereby you were brought into great want. Then the number of people encreasing, and as they encreased, sin and disorder did also encrease, which brought the correcting hand of God vpon you many wayes, so as diuers did perish very miserably: but, consider I pray you, that most of them
+<pb facs="tcp:6670:4"/> that so dyed, were vngodly, slothfull, and heartlesse men, which sheweth plainely that God hath not reserued these Ilands from the beginning of the world, to bestow them now vpon such, as shall dishonour and prouoke him eue<g ref="char:EOLhyphen"/>ry day, as many of them did. I cannot but wonder, when I thinke vpon the nastinesse &amp; loathsome lazinesse, where<g ref="char:EOLhyphen"/>in too many of them died, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> night and day for meat, notwithstanding they had m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nough, if not too much; for, they did nothing night and day but dresse, and eate, and so greedy, as they would not stay till their meate was sod; but more like dogges then Christians did deuoure it blood rawe.</p>
+            <p>The first night that I lay in the Iland, which you call <hi>Coopers Iland</hi> (whither the lazie-staruing-crue were sent, and with them, some honest industrious persons, though then much out of heart, and now liuing, and well, thanks be vnto God) when I saw in euery Cabbin, Pots &amp; Kettles full of birds boyling, and some on Spits rosting, and the silly wilde birds comming in so tame into my Cabbin, and goe so familiarly betweene my feet, and round about the Cabbin, and into the fire, with a strange lamentable noyse, as though they did bemoane vs, and bid vs take, kill, roast, and eate them: I was much amazed, and at length said within my selfe, surely the tamenesse of these wilde birds, and their offring of themselues to be taken, is a ma<g ref="char:EOLhyphen"/>nifest token of the goodnesse of God, euen of his loue, his care, his mercy and power working together, to saue this people from staruing.</p>
+            <p>M<seg rend="sup">r</seg>. <hi>Moore</hi> then Gouernour, fearing that their ouer eating themselues, would be their destruction, did remoue them from thence to <hi>Port Ryoll,</hi> where they found but lit<g ref="char:EOLhyphen"/>tle, or no want: for, birds they had there also, brought to
+<pb facs="tcp:6670:5"/> them, euery weeke, from the Ilands adioyning, whither some were sent of purpose to bird for them: Also they had fish brought vnto them, a Boates loading at a time, and Palmetoe Berries, which you know are so wholesome and nourishing, as a man may liue well with them, and be in heart, and strength, though he haue nothing else: not<g ref="char:EOLhyphen"/>withstanding all this, they died miserably, some with meat in their mouthes crying for more. This surely was a great iudgement of God vpon those slothfull and greedy belly-Gods, and a manifest signe and token (as I said euen now) that God hath not reserued these Ilands from the begin<g ref="char:EOLhyphen"/>ning of the world till now, to bestow them vpon such as shall prouoke him euery day, as many of them did. The correcting hand of God, which then lay heauiest vpon the lazie ones, did stretch out it selfe ouer all, euen the most in<g ref="char:EOLhyphen"/>dustrious, when their Lines, Hooks and Nets were worne out, so as many of them also died.</p>
+            <p n="6">6 You that came in the first Ship with M<seg rend="sup">r</seg>. <hi>Moore,</hi> being about 60. persons, haue great cause to praise God for his goodnes in preseruing you; so as you are now all aliue in health and strength, except one that was killed with shoo<g ref="char:EOLhyphen"/>ting off a great Peece: it is now almost nine yeares since you came hither.</p>
+            <p>God make you all thankfull, the worst (by the grace of God) is past; your hope and common talke is, that (by the helpe of God) you shall neuer see the want, that you haue seene. Now that a constant course is held in planting of Corne, you are sure by the blessing of God to haue two Wheat Haruests euery yeare, with lesse labour then they haue one in <hi>England,</hi> because here is neither plowing nor harrowing.</p>
+            <p>You haue plenty of good Fish, if you will take paines
+<pb facs="tcp:6670:5"/> to goe out to Sea for it.</p>
+            <p>In stead of the plenty of wilde Hogges, that you found here at your first arriuall, you haue tame Hogges, and also Turkyes and Powltry, so many as you can keepe.</p>
+            <p>The Kine in S<seg rend="sup">t</seg>. <hi>Georges</hi> Iland (you see) doe multiply and prosper well, so as in time, by the blessing of God, they will be a great comfort vnto you; so will the Goates also, if care be had of them.</p>
+            <p>Potatoes you haue plenty, as good as any bee in the world, Plantynes, Pynes, and other delicate Indian fruits, you are like to haue plenty, if you will haue a care to plant them.</p>
+            <p>Also if (according to the Statute made in the first yeare of Captaine <hi>Butler</hi> his gouernment) you make your Fen<g ref="char:EOLhyphen"/>ces of Figge and Pomgranate Trees, you will haue more Figges and Pomgranates then you will be able to spend: what a comfort will it be vnto you, to haue all your Fen<g ref="char:EOLhyphen"/>ces of Figge Trees &amp; Pomgranate Trees? the like (I think) is not to be found in the world.</p>
+            <p>Sugar Canes, though they are not like to proue any marchantable commodity, yet they will be a great com<g ref="char:EOLhyphen"/>fort to you many wayes.</p>
+            <p>The Casaua roote is like to prooue a great blessing of God vnto you, because it makes as fine white bread as can be made of Wheat, and (as I am perswaded) wholsome, because the Indians that liue of it, are tall and strong men.</p>
+            <p>The bread will keepe as long as Bisket, and therefore good for the Forts.</p>
+            <p>If it yeeld a little, and become soft, doe but lay it out in the Sunne, and it will bee as hard, as when it was first baked.</p>
+            <pb facs="tcp:6670:6"/>
+            <p>The planting of Casaua would not be neglected, be<g ref="char:EOLhyphen"/>cause it is a sure foode: your Corne is subiect to blasting, and to the wormes, so is not the Casaua.</p>
+            <div type="part">
+               <head>How to make Bread of Casaua rootes.</head>
+               <p>FIrst wash, and scrape cleane; or pare away the out-side. Then grate the root vpon a Grater, as you do bread: get Graters made of purpose, with holes somewhat big<g ref="char:EOLhyphen"/>ger then ordinary.</p>
+               <p>If you want a Grater, you may make shift with a rough pumish stone, wherof you may finde some vpon the Bayes by the Sea side, or with nayles broad pointed, driuen thick through a bord.</p>
+               <p>Presse out the iuice through a Bagge of haire, as you doe Veriuice; then spread the grated roote vpon a cleane cloath in the Sunne to dry.</p>
+               <p>That which will not goe through the Siue, beat in a Morter till it be small like meale, and fift it againe.</p>
+               <p>Take the sifted roote, and strew it in a cleane dripping panne, and put it into the Ouen, and it will bake in a quar<g ref="char:EOLhyphen"/>ter of an houre.</p>
+               <p>The Ouen must not be too hot.</p>
+               <p>You must not knead the roote, as you doe Dowe, nor put water to it, but strew it dry, like Saw-dust, almost an inch thicke.</p>
+               <p>If you haue no Ouen, you may bake it on a Triuet or three stones, with a little fire, if you make a great fire, it will not bake, but crumble like Saw-dust: remember to turne it three or foure times, vnlesse you bake it in a Ouen, then it needes no turning.</p>
+               <p>Your chiefe and Merchantable commodity for the pre<g ref="char:EOLhyphen"/>sent
+<pb facs="tcp:6670:6"/> is Tobacco: pray to God to blesse you with some other commodity, which may be more to his glory, and comfort of his people then Tobacco is.</p>
+               <p>There is great hope of the Silke-worme, Captaine <hi>But<g ref="char:EOLhyphen"/>ler</hi> your Gouernour saith, that the Mulberrie Trees grow<g ref="char:EOLhyphen"/>ing in the Summer Ilands, are as good, if not better, then those, that he hath seene, where silke is made.</p>
+               <p>The Spiders doe make perfect Silke; therfore I am per<g ref="char:EOLhyphen"/>swaded there is no doubt to be made of the Silke-worme, faile not therefore to plant Mulberrie Trees neere your houses, that you may haue meat at hand for the Wormes, when they shall be sent you.</p>
+               <p>Forget not the goodnes of God, in manifesting the loue and care that he hath of you, by blessing you with a Parlia<g ref="char:EOLhyphen"/>ment, wherein diuers Lawes and Statutes fitting your estate, and agreeing with the Lawes of <hi>England,</hi> haue been made: wherein also I obserue the good hand of God, in that (notwithstanding your discontentments and gree<g ref="char:EOLhyphen"/>uances were many; and that diuers did purpose (as I did gather by their speeches) to stand stifly or rather obsti<g ref="char:EOLhyphen"/>natly to haue things caried according to their owne wills, so as I did feare it would prooue, an vnhappy, long, and troublesome Parliament.) It pleased God so to direct Captaine <hi>Butler</hi> your Gouernour in the ordering of it, and also to change the minde of diuers of the Burgesses, as when they were assembled, there was such reasonablenesse and sweet vnity of mindes euen in all, as the Bils did passe, and were graunted on all sides, readily, and cheerefully, which to me seemeth a great worke of wonder, and a ma<g ref="char:EOLhyphen"/>nifest signe, that God, who is the God of loue and peace, was in the midst of vs, guiding and assisting vs with his holy spirit; his holy and great name be therefore praised.
+<pb facs="tcp:6670:7"/> I hope that God will giue the like blessing to the next Par<g ref="char:EOLhyphen"/>liament, and in his good time establish a good pollitick ciuill estate amongst you.</p>
+               <p>Consider well I pray you of the goodnes of the Lord Iesus, in choosing and taking you out of his Vineyard in <hi>England,</hi> and in bringing you into these Ilands, to plant you here, so as now these Ilands also, which formerly haue beene called the Iland of <hi>Deuils,</hi> are become the Vineyard of the Lord Iesus, and you the plants that his right hand hath planted here.</p>
+               <p>Consider I pray you of this, and take heede that you bring not forth the sower Grapes of vnthankfulnesse and disobedience, least God doe to his Vineyard here as he did to his Vineyard in <hi>Iudea;</hi> when it did so, hee tooke away the hedges, brake downe the walles, and laide it waste. Isai. 5.56.</p>
+               <p>Consider also of the goodnes of God in preseruing all Shippes belonging to these Ilands, so as none haue beene cast away neither going nor comming: true it is that this last yeare 1619. a Ship was cast away, not going nor com<g ref="char:EOLhyphen"/>ming, but riding at anker in the harbour.</p>
+               <p>My heart giueth me, that among other sinnes, the abo<g ref="char:EOLhyphen"/>minable sinne of Drunkennesse, that aboundeth among you, euery shipping time, did much further the bringing of that iudgement vpon her, to admonish some to bee no longer Bawds to Drunkennesse, by sending ouer so much <hi>Aqua-vitae,</hi> and also to admonish you to suppresse Drun<g ref="char:EOLhyphen"/>kennesse and all other sinnes, as much as you can, which doe abound too much among you, to the great dishonor of Almighty God, and daily prouoking of him to wrath.</p>
+               <p>Forget not the iudgement that God hath shewed on Drunkards among you.</p>
+               <pb facs="tcp:6670:7"/>
+               <p>In <hi>Summerset,</hi> you know how one died suddainly with drinking himselfe dead drunke.</p>
+               <p>Also in the Towne at S<seg rend="sup">t</seg>. <hi>Georges,</hi> a man of <hi>Summerset</hi> drunke himselfe dead drunke, and being by a <hi>Coroners In<g ref="char:EOLhyphen"/>quest</hi> found guilty of his owne death, was by the comman<g ref="char:EOLhyphen"/>dement of Captaine <hi>Butler</hi> your Gouernour, buried in the high way, with a stake driuen through him, by them in whose company hee dranke himselfe dead, each of them hauing a paper on his backe with this superscription, <hi>These are the Companions of him, which killed himselfe with drinking.</hi> Two of the most notorious of them were punished, the one whipped at the whipping Post, the other (because he was a Souldier) did ride the Cannon, shot off full charged, which did shake him terribly.</p>
+               <p>Forget not the Boats of <hi>Summerset</hi> that were ouer-tur<g ref="char:EOLhyphen"/>ned with the keele vpward, and some of the men drow<g ref="char:EOLhyphen"/>ned, because they that should guide them, were troubled in their braines with <hi>Aqua-vitae.</hi>
+               </p>
+               <p>Let not the hand of God, which lay heauy vpon you in Captaine <hi>Tuckers</hi> time, be forgotten, when the Rats did abound, and goe by Sea, from Iland to Iland, so as no Iland was free, but all were like so many Coney-Warrens: I say they went by Sea, from Iland to Iland, because fishes haue diuers times been taken three leagues off at Sea, with Rats in their mawes, which sheweth plainly, that the Rats did swim, and were snapt vp of the fishes.</p>
+               <p>Consider what a plague of God they were vnto you both within dores, and without: within, they deuoured your Corne, and other prouision of foode, and your cloathes and shooes, (as my selfe hath good cause to re<g ref="char:EOLhyphen"/>member:) without, they deuoured your Corne by scra<g ref="char:EOLhyphen"/>ping it out of the ground: when it was new set, the Grains
+<pb facs="tcp:6670:8"/> which were thrust in so deepe, as they could not scrape vp, vntill God in mercy hearing our poore prayers, tooke them away, on the sodaine in three or foure dayes, I men<g ref="char:EOLhyphen"/>tion the time, because I tooke good notice of it.</p>
+               <p>Assoone as the Rats were destroyed, vvilde Cats, that vvere neither seene nor knowne, to be in any such aboun<g ref="char:EOLhyphen"/>dance, came marching out of the Woods, to your houses, sixe, seauen, or eight in a company: then it vvas in euery bodies mouth that the Cats had destroyed the Rats, and some said, that the coldnesse of the Winter killed them. I remember indeede, that vve had a very colde time a lit<g ref="char:EOLhyphen"/>tle before they vvere destroyed, vvhich (I am perswaded) God in mercy did send, for the killing of them: therefore giue the glory to God and not to the Cats, nor (as some doe to the Traps, nor to the ruinating of the Ilands vvith fire; and take heede, that your vnthankfulnes bring them not againe, or some other plague as bad.</p>
+               <p>Haue God alwayes in minde, and pray for grace to set forth the praise and glory of his holy and great name, ac<g ref="char:EOLhyphen"/>cording to the meaning of the first Petition of the Lords Prayer.</p>
+               <p>Follow not the sway of your owne corrupt lusts: let them not ouer-rule you, but pray to God to rule and go<g ref="char:EOLhyphen"/>uerne you by his word, and holy spirit, according to the meaning of the second Petition.</p>
+               <p>Make conscience euen of the least sinne, and take heede of following your owne wills in any thing: but pray to God for grace to doe his will in all things, according to the meaning of the third Petition.</p>
+               <p>Abhorre idlenesse, and take paines for your liuing ho<g ref="char:EOLhyphen"/>nestly in the feare of God: be content with your estate, how meane soeuer it bee; trust to Gods fatherly proui<g ref="char:EOLhyphen"/>dence,
+<pb facs="tcp:6670:8"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pray to God continually according to the me<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing of the fourth petition, for such things as you stan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>of.</p>
+               <p>Con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esse your sinnes vnto God euery day, and with grieued hearts desire God, according to the meaning of the fift Petition, for Christ his sake, to forgiue them.</p>
+               <p>Pray to God euery day for grace to amend your liues, according to the meaning of the sixt petition, especially when you are tempted to doe any euill: pray heartily that God will deliuer you; that is, not then leaue you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto your selues, with power and minde to do that <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> where<g ref="char:EOLhyphen"/>vnto you are tempted: but rather take that power and minde from you, and cause your hearts to faile you, as he did the heart of <hi>Ioseph,</hi> when being tempted by his Mi<g ref="char:EOLhyphen"/>stresse to commit adultery, said, <hi>How can I doe this great wickednesse, and so sinne against God.</hi> Gen. 39.9.</p>
+               <p>Forget not, but carefully remember the Sabaoth day, to keepe it holy, the doctrine whereof, which (by the mer<g ref="char:EOLhyphen"/>cie of God, I preached vnto you, I haue for your sakes) writ by way of question and answer, as plainly as it plea<g ref="char:EOLhyphen"/>sed God to enable me, in hope that God will blesse it vn<g ref="char:EOLhyphen"/>to you, to his glory, and your comfort through Christ Ie<g ref="char:EOLhyphen"/>sus: to whom with the Father, and the holy Ghost, be all honour, thanks, praise, and glory, now and for euer.</p>
+               <p>
+                  <hi>The grace of our Lord Iesus Christ be with you all,</hi> Amen.</p>
+               <closer>
+                  <signed>Yours, as his owne, LEVVES HVGHES.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:6670:9"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hristian Reader, let this little taste that J haue giuen thee of the good<g ref="char:EOLhyphen"/>nesse of God towards the Summer Jlands, satisfie thee for the present: ere it be long thou shalt haue a larger relation thereof, written by Captaine <hi>Nathaniel Butler,</hi> now Gouernour of the said Jlands.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:6670:9"/>
+            <head>QVESTIONS AND AN<g ref="char:EOLhyphen"/>SWERS CONCERNING THE heeping holy of the Sabaoth day, and publick Exercises of Religion.</head>
+            <p>Question. <hi>
+                  <seg rend="decorInit">W</seg>Hat is it to keepe holy the Sabaoth day?</hi>
+            </p>
+            <p>
+               <hi>Answer.</hi> To keepe holy the Sa<g ref="char:EOLhyphen"/>baoth day, is to rest vpon it from worldly businesse, sinfull pleasures, and all vngodlinesse, and to spend it in holy exercises.</p>
+            <p>Quest. <hi>How ought we to rest?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> The rest, must be inward in heart, from studying, muzing, and plodding vpon worldly businesses, and from thinking and lusting after carnall pleasures, especially from imagining, deuising, and lusting after that which is more simply euill.</p>
+            <p>Quest. <hi>What are the things that wee ought most to thinke of, on the Sabaoth day?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> First, forasmuch as the Sabaoth is kept in remem<g ref="char:EOLhyphen"/>brance of the goodnesse of God the Father towards vs in his worke of Creation; we ought therefore to thinke vp<g ref="char:EOLhyphen"/>on him, and his goodnesse, and therewith comfort our selues, and stirre vp our hearts to loue him, to reioyce in him, and to praise his holy name.</p>
+            <pb facs="tcp:6670:10"/>
+            <p>When we thinke vpon God, as he is the Creator of all things, wee ought then also to thinke of him, as he is the preseruer, ruler, gouernour, and disposer of all things, and therein take notice of his wisedome, power, prouidence and goodnes, and praise him for the same.</p>
+            <p>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>so wee ought then to thinke vpon our duty towards him, as he is Creator, Preseruer, Gouernour and disposer of all things, and examine our selues whither we doe our duty. If our consciences tell vs that we doe not, we ought then to be heartily sorrie, and with grieued hearts desire God to forgiue vs for Christ his sake, and to giue vs grace to amend.</p>
+            <p>Quest. <hi>What is our duty towards God, as he is the Creator of all things?</hi>
+            </p>
+            <p>
+               <hi>Ans<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Our duty is, from our hearts to acknowledge God the Father, Sonne, and holy Ghost, three persons and one God, to bee the Creator of all things, and that therefore all things are his, and for his sake ought to be re<g ref="char:EOLhyphen"/>garded, and no way abused, nor cruelly handled: no, not such creatures as are hurtfull, and which we may lawfully hunt and destroy: when they fall into our hands, we ought to shew mercy on them, by ridding them out of their liues as soone as we can, and not sport our selues with tormen<g ref="char:EOLhyphen"/>ting them.</p>
+            <p>Also for as much as there is no creature, but in the crea<g ref="char:EOLhyphen"/>tion of it, and end wherfore it was created, the wisedome, power, and goodnesse of God doth appeare, our duty is therefore to take notice of his wisedome, power, &amp; good<g ref="char:EOLhyphen"/>nesse in euery thing, and to praise him for the same; espe<g ref="char:EOLhyphen"/>cially for his goodnesse in creating all things to serue vs, and vs to serue him.</p>
+            <p>Qu. <hi>What is our duty towards God as he is the preseruer of all things?</hi>
+            </p>
+            <pb facs="tcp:6670:10"/>
+            <p>
+               <hi>Answer.</hi> Our duty is, from our hearts to acknowledge God the Father, Sonne, and holy Ghost, to bee the pre<g ref="char:EOLhyphen"/>seruer of all things, as the Prophet <hi>Dauid</hi> doth, Psal. 145.15.16.147.8.9. and therein also take notice of his wise<g ref="char:EOLhyphen"/>dome, power, prouidence and goodnes, and to praise him for the same, especially for his goodnes in preseruing vs so graciously as hee hath done, from the houre that wee were borne to this houre, and aboue all things, for preser<g ref="char:EOLhyphen"/>uing vs to eternall life, through Iesus Christ.</p>
+            <p>Also in regard that God hath a care of vs, our duty is to cast our care vpon him, 1. Pet. 1.7. and seeke vnto him by prayer, for such things as wee stand in neede of, accor<g ref="char:EOLhyphen"/>ding to the meaning of the fourth petition of the Lords prayer.</p>
+            <p>Quest. <hi>What is our duty towards God as he is the gouernour of all things?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Our duty is to submit our selues vnto him to be ruled and gouerned by him, according to the meaning of the second petition of the Lords prayers, and to forsake our owne wills to doe his will, according to the meaning of the third petition.</p>
+            <p>Quest. <hi>What is our duty towards God, as he is the disposer of all things?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Our duty is to be well content with that estate of life, wherein it shall please God to place vs, Phil. 4.11.12. and patiently to beare whatsoeuer shall please him to lay vpon vs, either for our sinnes as <hi>Eli</hi> did, 1. Sam. 3.18. or for our triall as <hi>Iob</hi> did, Iob 1.21. Wee ought euery day to thinke vpon, and to haue a care of our duty towards God, especially on the Sabaoth day.</p>
+            <p>Secondly, for as much as the Apostles did (by the moti<g ref="char:EOLhyphen"/>on of Gods holy spirit) change the day, so as our Sabaoth
+<pb facs="tcp:6670:11"/> is not that day whereon God the Father rested from his workes of creation: but, the day whereon our <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uiour Christ did rise againe from the dead for our iustification. We ought therfore to think vpon our Sauiour Christ, &amp; his goodnes towards vs, and therewith also comfort our selues, and stirre vp our hearts to loue him, to reioyce in him, and to praise his holy name, because it is written, <hi>That all men should honour the Sonne, as they honour the Father: he that honoureth not the Sonne, the same honoureth not the Fa<g ref="char:EOLhyphen"/>ther,</hi> Ioh. 5.32.</p>
+            <p>Thirdly, in regard the Sabaoth was ordained for the publick worship, and seruice of God; we ought therefore to thinke vpon that publick worship and seruice, and of the time, place, and manner of assembling thereunto: and haue a care to prepare our selues, by holy meditations and prayer; that we may be ready presently to ioyne, with the congregation in that part of Gods worship, that is then in hand, as if the Minister be then reading or preaching the word of God, we ought not then to kneele, and pray, as many doe, but hearken to Gods word: or if the Mini<g ref="char:EOLhyphen"/>ster &amp; people be praying or singing of Psalmes, we ought presently without any delay to ioyne with them.</p>
+            <p>Que. <hi>Shew the manner how we ought to come to worship God?</hi>
+            </p>
+            <p n="1">1. <hi>Answ.</hi> Willingly, Psal. 110.3.122.1.</p>
+            <p n="2">2. Gladly. Deut. 28.47. Psal. 42.</p>
+            <p n="3">3. Reuerently. Psal. 5.7. Eccles. 4.17.</p>
+            <p n="4">4. With holy affections. Psal. 93.5.</p>
+            <p n="5">5. With minde desirous to be taught, and purpose to doe as we are taught. Isai 2.3.</p>
+            <p n="6">6. In charity and peace with all men, so farre as we can, Math. 5.23.</p>
+            <p>Quest. <hi>What ought wee to thinke vpon, all the while that wee
+<pb facs="tcp:6670:11"/> are in the publick assembly?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> All that while, we ought to thinke and consider with our selues, that wee are there after a speciall manner in the presence of God, and that therefore as in all other places, so especially there wee ought to haue a care to be<g ref="char:EOLhyphen"/>haue our selues, so as wee giue no offence vnto his holy Maiestie.</p>
+            <p>Quest. <hi>When the publick worship is ended, what ought wee to thinke vpon then?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Wee ought then presently to thinke vpon the goodnes of God in bringing vs together, in health and strength of body and minde, in peace and safety from all enemies, to worship him, and with all our hearts to gi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e him thanks.</p>
+            <p>We ought then also to thinke vpon our weaknes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and by-thoughts, in calling vpon his holy name, and in hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ning vnto his holy word, and desire him for Christ his sake to forgiue vs. All this wee may doe as we are rising, and going from our seates to the Church dore.</p>
+            <p>Then next as wee are going from Gods hou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, to our owne houses, and when we are come home, wee ought to thinke vpon the holy word of God, which was read and preached vnto vs, and meditate vpon it, whi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t is <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>h in our memory, and desire God to blesse it vnto vs.</p>
+            <p>When we thinke vpon Gods word, we ought th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> also to thinke vpon our liues and conuersations, whither they be according to Gods word.</p>
+            <p>Those things which we shall see, by the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght of Gods word to be amisse in vs; we ought then to grieue to think vpon them, and with grieued hearts desire God for Christ his sake to forgiue vs, and to grant vs grace to amend.</p>
+            <p>Also we ought then, to resolue and purpose with our
+<pb facs="tcp:6670:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:6670:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:6670:13"/> selues, by the grace of God to amend, without any further prolonging of time.</p>
+            <p>Also, forasmuch as God will not forgiue vs our sinnes, except we also forgiue them, that haue offended vs: wee ought therefore to thinke vpon such, as haue offended vs, and forgiue them with all our hearts, and also resolue and purpose (by the grace of God) to loue them, and of loue, to doe them all the good we can.</p>
+            <p>Lastly, forasmuch as God will not heare our prayers, vntill we haue done our best endeuour, to be reconciled vnto such, as wee haue offended; wee ought therefore to thinke vpon them, and vse all the good meanes we can, to be reconciled vnto them; this we ought to doe euery day, especially on the Sabaoth day.</p>
+            <p>Quest. <hi>What ought to be our chiefest talke vpon the Sabaoth day?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Our chiefest talke ought to be of God, and of his workes, word, and Sacraments, especially of his word, which was read and preached vnto vs, to repeat it to them, that be of our family, Deut. 6.6.11.18.19. And to conferre of it with our neighbours that feare God, Mal. 3.16. and with our Minister, if we doubt of any thing, Mal. 2.7.</p>
+            <p>Que. <hi>Is merry talking and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sting, and singing of merry Songs a breach of the Sabaoth?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Yes, and that not onely in him, that vseth it, but also in others, in that it causeth them to withdraw their mindes from holy meditations to hearken thereunto.</p>
+            <p>Quest. <hi>May not men reckon with their Seruants and Labou<g ref="char:EOLhyphen"/>rers, and pay them their wages; and appoint them their worke?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> No: vnlesse it be in case of extreame necessity, be<g ref="char:EOLhyphen"/>cause their hearts &amp; tongues are busied, so as they cannot be imployed for that time, in the sanctifying of the Saboth.</p>
+            <pb facs="tcp:6670:13"/>
+            <p>Obiect. <hi>To pay Labourers wages is an almes deede, and there<g ref="char:EOLhyphen"/>fore no breach of the Sabaoth.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Labourers wages is no almes deede, but a due debt, which ought to be paid, assoone as he hath done his worke, vnlesse he be one, that hath no present need, Leuit. 19.30. Deut. 24.19.</p>
+            <p>Quest. <hi>What are the things that may be done on the Sabaoth day?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Euery worke that is necessarily required to the performance of the seruice of God, Math. 12.5. Also all such workes of mercy, and vrgent necessity, as cannot be preuented before; nor deferred to another day, as to re<g ref="char:EOLhyphen"/>sist the in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sion of enemies, or robberies, to quench the rage of fire, to dresse meat, but not to make riotous feasts, because thereby men are made vnfit for the duties of the Sabaoth, and many are kept from the Church: also to vi<g ref="char:EOLhyphen"/>site, helpe, and comfort such, as are in prison, sick, or com<g ref="char:EOLhyphen"/>fortlesse. Also to fodder cattell, and leade them to water, and to pull a sheepe or beast out of a pit, Luke 13.14. Mat. 12.11. In these and the like cases of necessity, God saith, <hi>I will haue mercy, and not sacrifice,</hi> Hos. 6.6. When vpon any such occasion, wee are absent from the Church, our loue towards God, and his holy worship ought to beare such a sway in our hearts, as to cause vs to be sorrie, that we can<g ref="char:EOLhyphen"/>not be there, and take heed that wee make not the visiting of our friends that be well, nor of them that are sick, when woe can doe them no good, to be an occasion to keepe vs from the Church.</p>
+            <p>Quest. <hi>May not Husbandmen labour in earing time and Haruest?</hi>
+            </p>
+            <p>
+               <hi>Answer.</hi> No, for they are forbid by expresse words. Exod. 34.21.</p>
+            <pb facs="tcp:6670:14"/>
+            <p>Quest. <hi>May not Shoomakers, Taylers, and such like, as haue hast of worke, and they that haue Tobacco to looke too, as many haue in these Ilands, may not they worke on the Sabaoth day?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> No: for their labour is not of such necessity, as the Husbandmens labour is, in earing time and Haruest, which yet is forbidden. Note heere, that if the workes of our vocation, without which we cannot liue be vnlawfull, much more are vaine and sinfull pastimes.</p>
+            <p>Quest. <hi>May not Chap-men, Higlers, Carriers, and Water-men, carrie commodities out of the Citie into the Country, and out of the Country into the Citie?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> No: for that were to preferre the seruice of the Citie &amp; Country, before the seruice of God. Neh. 13.15.</p>
+            <div type="part">
+               <p>Quest. <hi>YOu said that the Sabaoth ought to be spent in holy exercises, shew what those Exercises are, especially the publick exercises?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They ought to be such, as the auncient people of God the Iewes did vse.</p>
+               <p>Quest. <hi>What were they?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> First, they had publick prayer, and therefore the place of their publick assembly was called the house of prayer.</p>
+               <p>Secondly, they had singing of Psalmes: the 92. Psalme was made of purpose to be sung on the Sabaoth day, to stirre vp the people to acknowledge God, and to praise him in his workes, and therefore in the title of it, it is cal<g ref="char:EOLhyphen"/>led a Psalme for the Sabaoth.</p>
+               <p>Thirdly, they had the holy Scriptures read and expoun<g ref="char:EOLhyphen"/>ded, Neh. 8.7.8.9. Act. 13.15.</p>
+               <p>Fourthly, they had certaine Sacrifices and Sacraments
+<pb facs="tcp:6670:14"/> to represent Christ, instead whereof Christians haue Bap<g ref="char:EOLhyphen"/>tisme and the Lords Supper.</p>
+               <p>Fiftly, at the breaking vp of their assemblies, they had voluntary offerings for necessary vses, Mar. 12.41.</p>
+               <p>Quest. <hi>Now shew how these parts of Gods outward worship ought to be performed, and first shew how we ought to pray?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Our prayers ought to bee made to God onely, Psal. 51.15. in a knowne tongue. 1. Cor. 14.14. in the name of Iesus Christ, Ioh. 16.23. from our hearts, Math. 5.8. fer<g ref="char:EOLhyphen"/>uently, Iam. 5.16. in true faith and repentance, Iam. 1.6.7. Psal. 66.18. without wrath, 1. Tim. 2.8. in peace and chari<g ref="char:EOLhyphen"/>ty with all men, Mat. 5.24.6.14.15. looking vp, Isai 45.22. Ioh. 17.1. and lifting vp our hands, Lam. 3.41. with great reuerence, kneeling, if we can conueniently, Psal. 5.7.59. Isai 45.23.</p>
+               <p>Quest. <hi>Are you able to pray as you ought?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> No: for it is written, that we know not how to pray as we ought, Rom. 8.26. therefore euery time that we are about to pray, we ought to desire God to helpe vs and to teach vs.</p>
+               <p>Quest. <hi>What doe you to stirre vp, and to strengthen your faith in prayer?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I doe think vpon God and consider of him: first, that he is my God, and my Father, Ioh. 20.17.</p>
+               <p>Secondly, that being my God, and my Father, hee hath a care of me, 1. Pet. 1.7.</p>
+               <p>Thirdly, that hee seeth mee, and the estate that I am in. Pro. 15.3.</p>
+               <p>Fourthly, that he knoweth what I stand in neede of, and how to helpe me, Math. 6.8. 2. Pet. 1.8.</p>
+               <p>Fifthly, that hee doth heare mee according to his pro<g ref="char:EOLhyphen"/>mise, Psal. 50.15.</p>
+               <pb facs="tcp:6670:15"/>
+               <p>Sixthly, that he is both willing and able to helpe mee? willing, as hee is my louing Father, and able as he is God almighty. Dan. 3.7.</p>
+               <p>Seauenthly, that his loue and care of me is such, as hee doth not, neither can forget me. Isai 49.15.</p>
+               <p>Quest. <hi>How ought we to sing Psalmes?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In a knowne tongue, with our spirits and vnder<g ref="char:EOLhyphen"/>standing, and with grace in our hearts to the Lord, 1. Cor. 14.15. Col. 3.16.</p>
+               <p>Quest. <hi>How ought we to heare Gods word?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> While the Minister is reading, or preaching Gods word, we ought to looke vpon him, if we can, Luk. 4.20. and hearken carefully, Heb. 2.1.2. with honest and good hearts, Luke 8.15. desirous to learne the wayes of God, that we may walke in them, Isai 2.3. applying euery sentence vnto our selues, as spoken rather by God, then by man, 1. Thess. 2.13.</p>
+               <p>Quest. <hi>How ought we to receiue the Sacraments?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In true faith and repentance, Mar. 14.16.</p>
+               <p>Quest. <hi>How many Sacraments are there?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Two, Baptisme and the Lords Supper.</p>
+               <p>Quest. <hi>What is Baptisme?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Baptisme, is a seale of the euerlasting couenant of grace, that God hath made with his Elect.</p>
+               <p>Quest. <hi>How ought it to be ministred?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> With water (by a lawfull Minister) in the name of the Father, and of the Sonne, and of the holy Ghost.</p>
+               <p>Quest. <hi>What is meant by name?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Name signifieth, authority and commaunde<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Quest. <hi>What is meant by baptising in the name of the Father, and of the Sonne, and of the holy Ghost?</hi>
+               </p>
+               <pb facs="tcp:6670:15"/>
+               <p>
+                  <hi>Answ.</hi> To baptise in the name of the Father, and of the Sonne, and of the holy Ghost, is to baptise by vertue of authority, power, and commandement, receiued from God the Father, Sonne, and holy Ghost.</p>
+               <p>Also for as much as baptisme is a seale or marke, where<g ref="char:EOLhyphen"/>with God doth seale and marke them that are his, to di<g ref="char:EOLhyphen"/>stinguish them from others, therefore to baptise in the name of the Father, and of the Sonne, and of the holy Ghost, doth signifie:</p>
+               <p>First, that God the Father doth marke the party bapti<g ref="char:EOLhyphen"/>sed, for one of them whom he hath elected.</p>
+               <p>Secondly, that God the Sonne doth marke him for one of them whom he hath redeemed.</p>
+               <p>Thirdly, that God the holy Ghost doth marke him for one of them whom he will regenerate, guide, comfort and preserue to eternall life through Christ.</p>
+               <p>Quest. <hi>What is meant by water?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Water doth signifie the blood of Christ, where<g ref="char:EOLhyphen"/>with the sinnes of all the Elect are washed away.</p>
+               <p>Quest. <hi>What is meant by baptising with water?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To baptise with water in the name of the Father, and of the Sonne, and of the holy Ghost, doth signifie:</p>
+               <p>First, that God the Father hath washed the party bapti<g ref="char:EOLhyphen"/>sed from all his sinnes, in the blood of his beloued Sonne Iesus Christ, he being one of his Elect.</p>
+               <p>Secondly, that God the Sonne, according to the good will and pleasure of his heauenly Father, hath shed his blood for the party baptised, and therein hath washed him cleane from all his sinnes.</p>
+               <p>Thirdly, that the holy Ghost is or shall be giuen to the party baptised, to regenerate, guide, comfort, and preserue him to eternall life.</p>
+               <pb facs="tcp:6670:16"/>
+               <p>Quest. <hi>Whether ought the party that is to be baptised be dipped in water, as the manner was in the pr<gap reason="illegible" resp="#keyers" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>e Church, or but sprinkled with water, as the manner is now?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To dip in, or to sprinkle with water is all one, for the blood of Christ is called the blood of sprinkling, Heb. 12.24. And S<seg rend="sup">t</seg>. <hi>Peter</hi> writeth, that wee are elected vn<g ref="char:EOLhyphen"/>to sanctification by the sprinkling of the blood of Iesus Christ: which sprinkling of the blood of Christ, was figu<g ref="char:EOLhyphen"/>red in the olde Testament, by the sprinkling of the blood of the sacrifices, and is signified in the new Testament by the sprinkling of water in baptisme.</p>
+               <p>Quest. <hi>The body when it is dipped in water, or hath water sprinkled vpon it, is then vnder the water, what is meant by the being of the body vnder the water?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The being of the body vnder the water, doth sig<g ref="char:EOLhyphen"/>nifie the death and buriall of sinne in the Elect, by vertue of Christ his death and buriall.</p>
+               <p>Quest. <hi>What is meant by the comming of the body out of the water?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The grace that God doth giue vnto his Elect, to rise from sinne to newnesse of life, by vertue of Christ his resurrection, Rom. 6.4.</p>
+               <p>Quest. <hi>Shew mee yet a little more fully and plainely, what is done in Baptisme; first, what God doth; secondly, what the party baptised doth?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Forasmuch as Baptisme is a seale of the coue<g ref="char:EOLhyphen"/>nant of grace, that God hath made with his Elect, God therefore in and by Baptisme doth feale and make sure vn<g ref="char:EOLhyphen"/>to the party baptised, all his gracious promises contained in the euerlasting couenant of grace, which may be redu<g ref="char:EOLhyphen"/>ced into these three.</p>
+               <p>First, that God for his beloued Sonne Iesus Christ his
+<pb facs="tcp:6670:16"/> sake, will bee to all his Elect their God and their Father and dwell among them, to protect and deliuer them from Sathan, and his instruments, and to prouide for them all things necessary for this life, and the life to come, 2. Cor. 6.16.18. Ezech. 37.26.27. Zeph. 3.17.</p>
+               <p>Secondly, that God for his beloued Son Iesus Christ his sake, will receiue them to fauour, and forgiue, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd for<g ref="char:EOLhyphen"/>get all their sinnes for euer, Ier. 31.34. 1. Ioh. 1.7.</p>
+               <p>Thirdly, that for repairing his Image in them, hee will write his law in their hearts, and giue vnto them his holy Spirit, to regenerate, guide, comfort, and preserue thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to eternall life through Iesus Christ.</p>
+               <p>Besides, the fealing and confirming of these promises, God doth in, &amp; by Baptisme renue th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conditions where<g ref="char:EOLhyphen"/>on these promises were made, and by Baptisme doth bind euery of his Elect, that commeth to be baptised, to per<g ref="char:EOLhyphen"/>forme the same; as first, that he shall take God the Father for his God, and Father, and take his beloued Sonne Ie<g ref="char:EOLhyphen"/>sus Christ for his Lord and Sauiour, and his holy Spirit for his sanctifier, guide, comforter, and preserue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to eter<g ref="char:EOLhyphen"/>nall life, through Christ; yet so, as hee shall attribute the glory thereof, to God the Father, and to God the Sonne, as well as to the holy Ghost; because the holy Ghost pro<g ref="char:EOLhyphen"/>ceedeth from the Father, and the Sonne, so as whatsoeuer the holy Ghost doth, the same also doth the Father, and the Sonne, by the holy Ghost.</p>
+               <p>Secondly, that he shall feare, loue, reuerence, and serue God the Father, Sonne, and holy Ghost, in holinesse, ac<g ref="char:EOLhyphen"/>cording to the meaning of the commaundements of the first table, and in righteousnes according to the meaning of the commaundements of the second table.</p>
+               <p>Thirdly, when through infirmity he shall breake any of
+<pb facs="tcp:6670:17"/> Gods commandements, that then hee shall not despaire, nor presume; but repent and beleeue in Iesus Christ.</p>
+               <p>Quest. <hi>Now that you haue shewed what God doth in Bap<g ref="char:EOLhyphen"/>tisme, shew also what the party baptised doth?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The party baptised, by giuing his name vnto God; and by receiuing of Baptisme, as an earnest penny, or presse money, and marke whereby he is marked for one of Gods houshold seruants, doth thereby enter himselfe by name, as a couenant seruant vnto God, and also bind<g ref="char:EOLhyphen"/>eth himselfe to serue God, and to renounce Sathan and sinne, and whatsoeuer is against the honour and glory of God. Baptisme therefore may be said, to be a mutuall ob<g ref="char:EOLhyphen"/>ligation betweene God and his Elect, wherein they stand bound the one to the other.</p>
+            </div>
+            <div type="part">
+               <head>Of the Lords Supper.</head>
+               <p>Quest. <hi>WHat is the Lords Supper?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The Lords Supper is a Sacra<g ref="char:EOLhyphen"/>ment ordained, in stead of the Paschall Lambe, to represent Christ and all his benefits, now in the time of the Gospell, as the Paschall Lambe did in the time of the Law.</p>
+               <p>Quest. <hi>By whom was the Lords Supper ordained?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By the Lord Iesus, and therefore is not to be re<g ref="char:EOLhyphen"/>garded, as a deuise of man, but as an holy ordinance of the Lord Iesus: neither ought it to bee altred in any part, by putting to, or leauing out any thing; for that were to con<g ref="char:EOLhyphen"/>troule the wisedome of the Lord Iesus, as though we were wiser then he, or did see more then he.</p>
+               <pb facs="tcp:6670:17"/>
+               <p>Quest. <hi>Is it to bee regarded now, being ministred by men as much as it was then, when it was first ordained and ministred by the Lord Iesus?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Yes verily: for it is the Lords Supper now, as it was then, &amp; the Lord Iesus is present now as well as then, and is the chiefe Minister of it.</p>
+               <p>Quest. <hi>How is the Lord Iesus present now?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By his holy Spirit, according to his promise, where two or three are gathered together in my name, there am I in the middest of them.</p>
+               <p>Quest. <hi>How is he chiefe Minister of it?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By his holy Spirit in the Minister, directing and teaching him, how to pray, how to preach, and how to minister, Reuel. 2.1.</p>
+               <p>Quest. <hi>When was it ordained?</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> In the night wherein our Sauiour was be<g ref="char:EOLhyphen"/>trayed.</p>
+               <p>Quest. <hi>Why in that night?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> That it might bee a remembrance of his death and sufferings, which then did seaze vpon him, when hee was betrayed.</p>
+               <p>Quest. <hi>In what time of the night?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> After Supper, Luk. 22.20. as our Sauiour and his Disciples were eating, Mar. 14.22.</p>
+               <p>Quest. <hi>What had they to eate after Supper, that is, after the Paschall Lambe was eaten?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> A little banquet which the Iewes did alwaies vse to make vpon that night, assoone as they had eaten the Paschall Lambe, as an entrance into the Feast of vnleaue<g ref="char:EOLhyphen"/>ned bread.</p>
+               <p>Quest. <hi>Why did they begin that feast then?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Because the fifteenth day of the moneth, which
+<pb facs="tcp:6670:18"/> was the first day of that feast, did then begin?</p>
+               <p>Quest. <hi>Shew the manner of that banquet, and whereof it was made?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> It was thus: the table being furnished with a Sal<g ref="char:EOLhyphen"/>let of h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rbs, and sower sawce, and a loafe of vnleauened bread, and a cup of wine; the Maister of the family tooke the loafe, and gaue thanks, cut it in two, and put one halfe by it selfe, couering it with a table napkin: then he tooke the other halfe, and cut it in pieces among them that fate at the table with him, which they did eate with the Sallet, dipping their morsels in the sower sawce: That done, hee tooke the other halfe loafe, and brake it in pieces, and gaue it vnto them, saying, This is the bread of sorrow that your Fathers did eate in Egypt, &amp;c. calling it the Bread of sor<g ref="char:EOLhyphen"/>row, because it was ordained to be a remembrance of the sorrow of the Fathers in Egypt. Then he tooke the cup, which he called the Cup of blessing, gaue thanks, and then gaue it vnto him, that sate next vnto him, and hee to the next, and so from one to another, till euery one had drunke a little; then they sung certaine Psalmes, and so departed.</p>
+               <p>Quest. <hi>How doth it appeare that our Sauiour Christ, and his Disciples had such a banquet?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Very plainely: for it is written, that assoone as our Sauiour and his Disciples had eaten the Paschall Lambe, he rose, and washed his Disciples feete, Ioh. 13.2.4.12. and did eate, Mar. 14.22. and as the manner was, did dip their morsels in the Platter, Mar. 18.20. That done, as the Master of the family tooke the Cup, gaue thanks, and then gaue it to him, that was next vnto him, and hee to the rest, till all had drunke: so our Sauiour Christ tooke the Cup, gaue thanks, and then gaue it to his Disciples, saying, Take
+<pb facs="tcp:6670:18"/> this and diuide <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t amongst you, Luk. 22.17.</p>
+               <p>Quest. <hi>Was not that Cup the Communion Cup?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> No▪ for mention is made of the Communion Cup afterward in the twentith verse.</p>
+               <p>Quest. <hi>Why was the Lords Supper ordained after Supper, and after the banquet when then stomacks were full?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To shew that it was not ordained so much for the belly, as for the soule; therefore men comming to the Lords Table, must not looke to haue their bellies filled, but their soules comforted.</p>
+               <p>Quest. <hi>Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther ought is now to bee receiued fasting, or after one hath eaten something?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceiue it fasting, or after one hath eaten som<g ref="char:EOLhyphen"/>thing, is indifferent, so as eating and drinking before bee not excess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue; not fasting, be not an occasion of fainting; or thinking the time that is spent in the worship of God, to be too long and tedious, howbeit, for those who are not of weake stomacks, I hold most conuenient to receiue it fasting, because then wee are the better sitted for holy duties.</p>
+               <p>Quest. <hi>Whereof was the Lords Supper ordained?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Of Bread to represent the body: and of Wine to represent the blood of our Sauiour Christ.</p>
+               <p>Quest. <hi>Why of Bread and Wine rather then of somthing else?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Because there is nothing more fit to represent the strength and comfort, that all true beleeuers haue from Christ; nor to expresse the communion and fellowship that they haue with Christ, and one with another.</p>
+               <p>Quest. <hi>How doth the Bread and Wine represent the strength and comfort that all true beleeuers haue from Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> As Bread doth strengthen the heart, and Wine doth make it glad, Psal. 104.15. so Christ by his word and
+<pb facs="tcp:6670:19"/> holy Spirit doth comfort and preserue all true Beleeuers to eternall life.</p>
+               <p>Quest. <hi>What is meant by the Communion that the Faithfull haue with Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> A communion is a Ioyning of many together in one, so as euery one hath a part in that one.</p>
+               <p>By the Cōmunion that the faithfull haue with Christ, is meant a joyning of them all together in Christ, so as e<g ref="char:EOLhyphen"/>uery one hath his part in Christ, and Christ in euery one of them.</p>
+               <p>Quest. <hi>How doth the Bread and Wine represent the Commu<g ref="char:EOLhyphen"/>nion?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> As the Bread is made of many graines, so ioyned together, as they all make but one Loafe, and the Wine is made of many grapes so vnited, as they all make but one Wine: so the true beleeuers being many, are so vnited in Christ, as they all make but one Christ. 1. Cor. 12.12.</p>
+               <p>Quest. <hi>Where, and when were they so vnited?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In the wombe of the virgin Mary, before our Sa<g ref="char:EOLhyphen"/>uiour was borne, hee there tooke vpon him the true Na<g ref="char:EOLhyphen"/>ture &amp; substance of all the Elect, and was made true man, flesh of their flesh, bones of their bones, and bloud of their bloud, so as euery one of them hath his part in Christ.</p>
+               <p>Quest. <hi>How is Christ in them?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> He is in them by his holy Spirit. Gal. 4.6. Wor<g ref="char:EOLhyphen"/>king and preseruing Faith in them, whereby they are vni<g ref="char:EOLhyphen"/>ted vnto him, &amp; doe in heart ascend vp to him in Heauen, and doe cleaue fast and growe in him spiritually, as bran<g ref="char:EOLhyphen"/>ches in a Vine. Ioh. 15.</p>
+               <p>Quest. <hi>What benefit haue the Faithfull by the communion that they haue in Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> As a marryed woman, by reason of the commu<g ref="char:EOLhyphen"/>nion
+<pb facs="tcp:6670:19"/> and fellowship that is between her and her husband, is called by his name, as <hi>Euah</hi> is called <hi>Adam,</hi> Gen. 5.2. and hath right to all that is her husbands: So the faithfull by reason of their communion, and spirituall marriage with Christ, are called Christ, 1. <hi>Cor.</hi> 12.12. And haue right to all thinges that are his. 1. Cor. 3.22.</p>
+               <p>Quest. <hi>How doth the Bread and Wine represent the commu<g ref="char:EOLhyphen"/>nion that the faithfull haue one with another.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> As Bread consisteth of many graines all making but one Loafe, and the Wine consisteth of many grapes, all making but one Wine, so the faithfull being many are mystically but one body, whereof Christ is the head, and haue all but one Spirit, the spirit of Christ, which causeth them to loue one another and to agree louingly together, and to be of one minde, one Faith, and one Hope. Ephes. 4.3. &amp;c.</p>
+               <p>Quest. <hi>After what manner was the Lords Supper ordained?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Our Sauiour Christ in ordaining and ministring his Supper, did in many thinges Imitate the Master of the Family before mentioned, hee tooke Bread, gaue thankes, brake it, and gaue it to them that sate with him, saying: This is the Bread of sorrow that your Fathers did eate in <hi>Egipt:</hi> So our Sauiour tooke Bread, gaue thankes, brake in, and gaue it to his Disciples, saying: This is my Body, meaning that as the Bread, which the Master of the family gaue to his guests, was a remembrance of the sorrowes of the Israelites in Egipt: So our Sauiour had ordained that Bread, and the breaking thereof to bee a remembrance of his Body, and of the thinges he suffered in his body for vs.</p>
+               <p>Also as the Master of the family tooke the Cup, gaue thankes, and gaue it to his guests, so our Sauiour tooke the Cup, gaue thanks, and gaue it to his Disciples, saying:
+<pb facs="tcp:6670:20"/> This <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Testament in my Blood, mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing that a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had ordained the Bread to bee a remembrance of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Body, so hee ordained the Cup, that is, the Wine in the cup, to be a remembrance of his Blood, wherewith the new Testament is confirmed.</p>
+               <p>Quest. <hi>What are the principall thinges, that wee are to con<g ref="char:EOLhyphen"/>sider of in this m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>er of ordaining, and ministring this Supper by our Sauiour Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> First, his taking of the Bread.</p>
+               <p n="2">2. His not breaking of the Bread assoone as he tooke it.</p>
+               <p n="3">3. His giuing of Thankes, before he brake it.</p>
+               <p n="4">4. His breaking of the Bread.</p>
+               <p n="5">5. His giuing of the Bread to his Disciples.</p>
+               <p n="6">6. His wordes when hee gaue the Bread, saying: <hi>Take, eate, this is my Body, &amp;c.</hi>
+               </p>
+               <p>Quest. <hi>What was signified by his taking of the Bread?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The Bread signified Christ himselfe: his taking of the Bread, and setting it a part, signified that, as that bread was by him set a part: so he was from euerlasting (by the eternall Decree of God his Father) set a part a<g ref="char:EOLhyphen"/>lone from all others, to suffer for all the Elect. This was figured in the olde Testament by taking a Lambe and set<g ref="char:EOLhyphen"/>ting it a part from the rest to be slaine. Exod. 12.5.</p>
+               <p>Quest. <hi>What was signified by his not breaking of the Bread assoone as he tooke it?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It signified, that Christ should not bee slaine assoone as he came into the world; but liue till the time wherein God his Father, had from euerlasting appointed for him to dye in: This was figured in the olde Testament by taking the Paschall Lambe on the Tenth day, and kee<g ref="char:EOLhyphen"/>ping it aliue vntill the Fourteenth day at Euen.</p>
+               <p>Quest. <hi>Why did our Sauiour giue thankes before hee brake
+<pb facs="tcp:6670:20"/> the Bread?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w that when w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e are about to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se any of God<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> creatures, we might first to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cknowledge the good<g ref="char:EOLhyphen"/>nes of God in prouiding them for vs, and to giue him thankes, and also pray for his blessing vpon the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, especial<g ref="char:EOLhyphen"/>ly when wee come to Gods house to call <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon his holy Name, and to heare his holy Word, we ought with thank<g ref="char:EOLhyphen"/>full hearts to acknowledge the goodnes of God, in gran<g ref="char:EOLhyphen"/>ting vs accesse and free liberty to call vpon his holy name, and in bestowing his holy worde vpon vs, and desire him for Christ his sake to heare our prayers, and to blesse his holy word vnto vs.</p>
+               <p>Also, when we come to receiue the Lords Supper, wee ought with thankefull hearts to acknowledge the good<g ref="char:EOLhyphen"/>nes of God the Father, in be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>towing his bel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ued Sonne vpon vs, to feede and preserue our bodyes and soules to eternall life: wee ought them also with thankfull hearts to acknowledge the goodnes of our Sauiour Christ in lay<g ref="char:EOLhyphen"/>ing downe his life for vs, and in ordayning his good crea<g ref="char:EOLhyphen"/>tures of Bread and Wine, to represent vnto vs, his Body which was crucified, and his Blood which was shed for vs, and desire him to blesse these his good creatures vnto vs, so as by our receiuing of them according to his holy institution, our weake Faith may bee strengthened, our Consciences comforted, and wee stirred vp to loue him more then we haue done, and to bee more carefull of his Glory to serue and please him in holinesse and righteous<g ref="char:EOLhyphen"/>nesse all the dayes of our life.</p>
+               <p>So much of his Thankes-giuing.</p>
+               <p>Quest. <hi>Now shew what his breaking of the Bread signified?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By his breaking of the Bread was signified, the tearing and breaking of his Flesh for vs, with the nayles
+<pb facs="tcp:6670:21"/> when they were thrust through his handes and feete; and with the Speare when it was thrust through his side; and with the Crowne of thornes when it was put vpon his head, and with the Whip when hee was scourged. His sundring of the Bread one peece from another, signified the sundering of our Sauiour one part from another for our sakes; his soule ascended into Heauen, his body han<g ref="char:EOLhyphen"/>ging on the Crosse, and his blood spilt vpon the ground.</p>
+               <p>Quest. <hi>What was signified by his giuing of the Bread vnto his Disciples?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> His giuing of the Bread vnto his Disciples, sig<g ref="char:EOLhyphen"/>nified the goodnes and loue of God his Father in bestow<g ref="char:EOLhyphen"/>ing him, his beloued Sonne vpon vs, according to the Prophesie, <hi>Vnto vs a Sonne is giuen,</hi> Esa. 9.6. And also to sig<g ref="char:EOLhyphen"/>nifie his owne loue in giuing himselfe to dye for vs. Ephe. 5.2.</p>
+               <p>Quest. <hi>Now come to the wordes of our Sauiour when he gaue the Bread. What were they?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They were these: <hi>Take, eate, this is my Body, &amp;c.</hi>
+               </p>
+               <p>Quest. <hi>What was his meaning in saying so?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> His meaning was to shew, that he did institute, and appoint the bread to bee a signe, and remembrance of his Body; and therefore these wordes, Take, eate, this is my body, are commonly called the wordes of institu<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Quest. <hi>Why did our Sauiour call the Bread his Body, being but a signe or remembrance of his Body.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Because it is an vsuall thing in the holy Scrip<g ref="char:EOLhyphen"/>tures to vse figuratiue speeches, and to call the signe by the name of the thing signified.</p>
+               <p>Quest. <hi>What manner of Signe is the Bread?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Not a bare Signe, but such as (by vertue of the
+<pb facs="tcp:6670:21"/> words of Institution) together with it is conuayed Christ and all his merites, to the worthy receiuer; Therefore S<seg rend="sup">t</seg>. <hi>Paul</hi> calleth the bread, the communion of the body of Christ. 1. Cor. 10.16.</p>
+               <p>Quest. <hi>Doth the Minister when hee giueth the Bread and Wine, giue Christ also with the bread and wine?</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> No, the Minister giueth but the Bread and Wine, God doth at the same time by his Spirit offer vnto our Faith, and in truth doth giue Christ vnto vs, and Christ himselfe doth then also offer, and giue himselfe and all his merites to the worthy Receiuer.</p>
+               <p>Quest. <hi>What did our Sauiour next after the giuing of the Bread?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Hee gaue the Cup, saying: Drinke you all of it for this is my blood of the new Testament which was shed for many, for remission of sinnes.</p>
+               <p>Quest. <hi>Why did our Sauiour say so?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To shew that he did institute, and appoint the Wine in the cup to bee a signe, and remembrance of his Blood, wherewith, the new Testament is confirmed.</p>
+               <p>Quest. <hi>For whom was the Lords Supper ordayned?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> For all true hearted Christians.</p>
+               <p>Quest. <hi>Who be they?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They that haue the Spirits of Christ, and doe truely beleeue in him, repent of their sinnes, heare his voyce, and follow him in those thinges, wherein he ought to be followed especially in these vertues following:
+<list>
+                     <item>1. Zeale of Gods glory, Ioh. 2.15.16.17.</item>
+                     <item>2. Obedience to
+<list>
+                           <item>his heauenly Father. Phil. 2.8.</item>
+                           <item>his earthly Parents. Luke. 2.51.</item>
+                           <item>the higher Power. Mat. 17.25.26.27</item>
+                        </list>
+                     </item>
+                     <item>3. Loue towards Gods children. Ephes. 5.2.</item>
+                     <pb facs="tcp:6670:22"/>
+                     <item>4. Meeknesse and lowlinesse of heart. Math. 11.29.</item>
+                     <item>5. Patience in tribulation. 1. Pet. 2.21.23. Heb. 12.1.2.</item>
+                     <item>6. Prayer for himselfe, for others, yea, for his Enemies, Math. 26.39. Ioh. 17. Luke. 23.24.</item>
+                     <item>7. Loue of righteousnes, &amp; hatred of iniquity. Psa. 45.7.</item>
+                     <item>8. Care in all places to doe good.</item>
+                  </list>
+               </p>
+               <p>Quest. <hi>What if a man finde weaknes in himselfe so as he is not able to be such a true Christian, as he ought, may hee receiue?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Yes, so long as he findeth the grace of God in himselfe.</p>
+               <p>Quest. <hi>What Grace?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> First, grace to see and acknowledge his weaknes, and to bee offended with himselfe and grieued, longing earnestly to be freed from the slauery of sinne, as S<seg rend="sup">t</seg>. <hi>Paul</hi> did. Rom. 7.15.18.24.</p>
+               <p>Secōdly, grace to doe his endeuor, alway to keep a cleare Conscience towards God, and towards man, Act. 24.16. though with much weaknesse, Rom. 7.23.24. and to pro<g ref="char:EOLhyphen"/>mise and vowe vnto God amendment of life, euery time that he commeth to the Table of the Lord.</p>
+               <p>Thirdly, a liuely Faith to apprehend Christ, and all the merites of his Passion, which are not onely signified, but also exhibited to all worthy receiuers.</p>
+               <p>Quest. <hi>What if after hee hath promised and vowed amend<g ref="char:EOLhyphen"/>ment of life, and receiued the Lords Supper, he finde himselfe not able to keepe the vowe and promise he made vnto the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Let him be thereby humbled and heartily sorry, and confesse his weaknesse vnto the Lord, and pray for forgiuenesse and grace to amend, and come againe to the Table of the Lord, assoone as he <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to renew his vow and promise vnto the Lord.</p>
+               <p>Quest. <hi>You said that the ancient people of God, at the breaking
+<pb facs="tcp:6670:22"/> vp of their Assemblies, had voluntary offerings for necessary v<g ref="char:EOLhyphen"/>ses, which also ought to be in all Christian assemblies,</hi> 1. Cor. 16.1. <hi>shew how wee ought to contribute to such vses.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Chearfully, 2. Cor. 9.2. without vaine glory, Mat. 6.1. or opinion of meriting, Luk. 17.10. As God shall make vs able. 1. Cor. 16.2.</p>
+               <p>Quest. <hi>Now that you haue spoken of the publique exercises of Religion, and how euery part ought to bee performed; come to the persons that are bound by the Commaundement to keepe holy the Sabaoth day: Who be they?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Euery one, young and olde, poore and rich, high and lowe, bond and free.</p>
+               <p>Quest. <hi>Is the Commandement laid vpon all alike?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> No, the greatest charge is laid vpon the Parents that haue Children, and Masters that haue Seruants.</p>
+               <p>Quest. <hi>Are Magistrates exempted?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> No, the Magistrates aboue all other, ought to haue a care of the Sabaoth as <hi>Nehemiah</hi> had, <hi>Cap.</hi> 13. For, as the Loadstone draweth Iron, so doth the Magistrates ex<g ref="char:EOLhyphen"/>ample draw the people: when <hi>Asa</hi> sware to seeke the Lord the people sought the Lord with him, 2. <hi>Chro.</hi> 15. When <hi>Rehoboam</hi> forsooke the Law of the Lord, hee led away all Israell with him, 2. <hi>Chro.</hi> 12.</p>
+               <p>Quest. <hi>Why is mention made of Cattle?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Partly for their sakes, that they may rest, <hi>Exo.</hi> 23.13. and partly for our sakes, least by meanes of their labour we should prophane the Sabaoth, as they doe that doe vse to ride about worldly businesses and pleasures on the Saboth day, thinking they breake not the Sabaoth, because not they, but the Horses that carry them doe trauell.</p>
+               <p>Quest. <hi>Now come to the reasons set downe in the Commande<g ref="char:EOLhyphen"/>ment to moue vs to yeeld obedience vnto it: What is the first?</hi>
+               </p>
+               <pb facs="tcp:6670:23"/>
+               <p>
+                  <hi>Answ.</hi> The first is drawne from the goodnes of God in allowing vs sixe dayes, and but one for himselfe.</p>
+               <p>Quest. <hi>What is the second?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The second is drawne from the Authority of God to command; and power (as he is Lord) to punish such as will not obey, in these wordes: <hi>It is the Saba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th of the Lord.</hi>
+               </p>
+               <p>Quest. <hi>What is the third?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The third is drawne from the gracious Couenant that God hath made with vs, to bee our God, in these wordes, (thy God) as if God had said, I haue made a Co<g ref="char:EOLhyphen"/>uenant with you, that I will bee your God, and that you shall be my people to serue me, and haue appointed the Sabaoth day for my seruice, therefore you ought to re<g ref="char:EOLhyphen"/>member it, to keepe it holy.</p>
+               <p>Quest. <hi>What is the fourth?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The fourth is drawne from the Example of God, in working Sixe dayes and resting the Seauenth.</p>
+               <p>Quest. <hi>What is the fift and last?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The fift and last is drawne from the two principall Ends of the Sabaoth, for which it was ordayned, in these wordes: <hi>God blessed the Seauenth day, and hallowed it.</hi>
+               </p>
+               <p>Quest. <hi>What is meant by hallowing the Seauenth day?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To hallow or sanctifie a thing, is to set it a part for the worship and seruice of God.</p>
+               <p>God hath sanctified the Seauenth day, that is, God hath set it a part from other dayes, to be kept Holy for his ser<g ref="char:EOLhyphen"/>uice; therefore we ought to remember it, to keepe it holy.</p>
+               <p>Quest. <hi>What is meant by blessing the Seauenth day?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To blesse, is to bestowe some good guift vpon one; therefore a good guift is called a blessing, <hi>Gen.</hi> 33.11. God hath blessed the Seauenth day, that is; God hath or<g ref="char:EOLhyphen"/>dayned the keeping Holy of the seauenth day, to bee a
+<pb facs="tcp:6670:23"/> meanes to procure his blessing to come vpon all them, that remember it to keepe it holy; They therefore that desire the blessing of God, ought to remember the Sa<g ref="char:EOLhyphen"/>baoth day to keepe it holy: Which grace, God almighty graunt to euery one of vs, for Iesus Christ his sake, to whom with the Father, and the holy Ghost, be all honour, thankes, praise, and Glory, now and for euer. <hi>Amen.</hi>
+               </p>
+               <trailer>Here endeth this Catechisme.</trailer>
+            </div>
+         </div>
+         <div type="prayers">
+            <div type="prayer">
+               <head>Grace before Meate.</head>
+               <p>HEauenly Father, thus it pleaseth thee to shew thy loue and thy care in prouiding thy good Creatures for vs; thy holy and great Name bee therefore praised; forgiue vs our sinnes for Christ his sake, and giue vs grace so to consider of thy Loue as thereby we may be stirred vp to loue thee againe, and to be truely zealous of thy Glory, and carefull to serue and please thee: and giue thy blessi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g to these thy good creatures, so as they may haue power to nourish vs, to make vs the stronger and more fit to serue thee to thy Glory through Christ Iesus. Amen.</p>
+            </div>
+            <div type="prayer">
+               <head>Grace after Meate.</head>
+               <p>HOly Father, thy holy and great Name be blessed and praised now and for euer: forgiue vs our sinnes for Christ his sake and giue vs grace to amend, what hitherto haue beene amisse in vs, so as from henceforth wee may liue to thy Glory through Christ Iesus.</p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the Morning.</head>
+               <p>O Most mighty and glorious God, full of incomprehensible Power and Maiesty; whose Glory the very heauen of hea<g ref="char:EOLhyphen"/>ue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s is not able to containe: looke downe vpon vs thy poore Children with thine eyes of mercy, for Iesus Christ his sake, and let thine eares be open vnto our prayers: helpe vs also, and teach vs to call vpon thee according to thy holy will, and pardon our vnworthines to open our mouthes to speake vnto thy holy Ma<g ref="char:EOLhyphen"/>iesty wee humbly intreat thee for Iesus Christ his sake. Holy Fa<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:6670:24"/> wee doe from our hearts acknowledge that we haue broken all thy Commandements, by sinfull motions, vncleane thoughts, euill wordes, and euill deeds, and are in such hardnes of hearts, as we cannot repent vs of our sinnes as we ought, and are therefore in danger of thy Iudgements, &amp; curses due vnto the transgressors of thy lawes. O deare Father, enter not into iudgement with vs, we humbly intreat thee for Iesus Christ his sake, deale not with vs according to our deserts, but doe thou accept of the suffering and obedience of Iesus Christ as a sufficient recompence and satisfa<g ref="char:EOLhyphen"/>ction for all our sinnes, and graunt true and speedy repentance vn<g ref="char:EOLhyphen"/>to vs, and turne away from vs all iudgements due vnto our sinnes. Giue vs grace to loue and feare thee aboue all, and to loue our neighbours as our selues: &amp; as we would that men should doe vn<g ref="char:EOLhyphen"/>to vs, so giue vs grace to doe vnto them, especially to such as put vs in trust: make vs truely thankefull vnto thee, for the quiet rest and sleepe, that thou hast bestowed vpon vs in this night past, and for all other thy mercies and blessings bestowed vpon vs, and for Christ his sake continue thy goodnes towards vs: bee good vnto vs this day, keepe vs vnder the shadow of thy wings that no euill come vnto vs: keepe vs from sinne especially, &amp; from Sathan and all his instruments: guide vs with thy holy Spirit, instruct vs with thy holy worde, and prosper vs in euery good thing that we shall take in hand to thy glory: blesse vnto vs all thy good crea<g ref="char:EOLhyphen"/>tures that we shall vse this day, and giue vs grace to vse them tem<g ref="char:EOLhyphen"/>perately and thankfully; blesse also all crosses and afflictions vnto vs, that so all things may turne to thy glory &amp; our good: Be good to all other thy Children wheresoeuer they be by Sea or by Land, giue vnto thy holy word a free passage throughout all the Nations of the world, conuert or confound all them that are the enemies of it any māner of way: accomplish the number of thine Elect and hasten the comming of thy beloued Son Iesus Christ vnto Iudge<g ref="char:EOLhyphen"/>ment, to make an end of these sinfull dayes. Deare Father heare vs in these our supplications, and pardon our weaknes, &amp; all our wan<g ref="char:EOLhyphen"/>dring &amp; by-thoughts, in calling vpon thy holy Name, we humbly intreat thee for Iesus Christ his sake, in whom thou art well plea<g ref="char:EOLhyphen"/>sed with vs, in whose name we conclude these our weake and im<g ref="char:EOLhyphen"/>perfect prayers, with that most perfect and absolute Prayer that himselfe hath taught vs, saying: <hi>Our Father which art, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:6670:24"/>
+               <head>A Prayer for the Euening.</head>
+               <p>O Heauenly Father, wee thy poore Children according to our bounden duty, doe heere cast downe our selues before thy most holy Maiesty in the name of thy beloued Son Iesus Christ, to acknowledge thy great goodnes towards vs, not onely in this day past, but also in all the dayes of our life, euen from y<seg rend="sup">e</seg> houre that we were borne to this houre; thy goodnes towards vs hath been ex<g ref="char:EOLhyphen"/>ceeding great, and so great, as we are not able to expresse: for thou hast euery way shewed thy selfe a good &amp; a louing Father vnto vs, and hast alwayes had a louing and a Fatherly care of vs, to preserue vs from infinite perils and dangers, and most graciously from time to time thou hast relieued vs and prouided for vs according to our necessities; and aboue all thinges we doe acknowledge thy great goodnes towards vs from euerlasting, in electing vs for thy Chil<g ref="char:EOLhyphen"/>dren, &amp; in ordayning vs to eternall life through Iesus Christ. Faine we would lift vp our dull and heauy hearts vnto thee, to offer vnto thee such an euening sacrifice of thanks &amp; praise as thou deseruest: but, deare Father thou seest there is that weakenes in vs as wee are not able to giue vnto thee, the least part of that thankes &amp; praise as thou deseruest: pardon our weaknes for Iesus Christ his sake: par<g ref="char:EOLhyphen"/>don also our vnthankfulnes past and all other our sinnes, and for Christ his sake continue thy goodnes towards vs, &amp; suffer not our vnthankfulnes past to be any hinderance: receiue vs into thy pro<g ref="char:EOLhyphen"/>tection this night: keep vs vnder y<seg rend="sup">e</seg> shadow of thy wings that no e<g ref="char:EOLhyphen"/>uill come vnto vs, and bestow vpon vs quiet rest and sleepe, to re<g ref="char:EOLhyphen"/>fresh our weake &amp; fraile bodyes, wherby we may be made y<seg rend="sup">e</seg> stron<g ref="char:EOLhyphen"/>ger and more fit to serue thee to thy glory, through Christ Iesus.</p>
+               <p>Bee good to all other thy Children, wheresoeuer they be, by Sea or by land; giue repentance to thy people in England, and for the glory of thy great Name that is called vpon amongst them, conti<g ref="char:EOLhyphen"/>nue thy goodnes towards them, &amp; turne away from them all those iudgements that their sinnes doe dayly cry for: aboue all, as duty bindeth vs, we beseech thee to be good vnto our King; Lord keep him vnder the shadow of thy winges that no euill come vnto him; keepe him from sinne especially, and from Sathan and all his instru<g ref="char:EOLhyphen"/>ments. The Prince, Lord keepe as the apple of an eye, that no euill come vnto him, and as hee shall grow in yeares, so let him grow in the graces of thy holy Spirit. Blesse also the Kings Daughter and
+<pb facs="tcp:6670:25"/> that Christian Prince that hath maryed her: blesse them with Chil<g ref="char:EOLhyphen"/>dren as thou hast begun, and let thy blessing remaine vpon their Children. Blesse all Christian Kings, Princes, Iudges, Magistrates, and Ministers of thy holy word throughout the whole world, espe<g ref="char:EOLhyphen"/>cially within our Kings Dominions euery where.</p>
+               <p>Giue vnto thy holy word a free passage, and to that end wee be<g ref="char:EOLhyphen"/>seech thee to conuert or confound all the enemies thereof, especi<g ref="char:EOLhyphen"/>ally that man of sinne and Childe of perdition, the Pope of Rome: in thy good time bring vpon him his deserued ruyne and destructi<g ref="char:EOLhyphen"/>on, according to thy worde. Lord, stirre vp the hearts of those Christian Princes mencioned in the holy Reuelation of our Saui<g ref="char:EOLhyphen"/>our Iesus Christ, to ioyne their Powers together against him, The Christian Princes that haue already begun to ioyne their powers together; Lord, bee with them to streng<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en them; Lord, make their armes as Brasse, and their feete as Iron, to bring downe that man of Sinne and his maintainers. Heare vs deare Father in these our supplications, and pardon our weaknes, and all our wan<g ref="char:EOLhyphen"/>dring and by-thoughts in calling vpon thy holy Name we humbly intreat thee, euen for Iesus Christ his sake, in whom thou art well pleased with vs, and in whose Name wee doe further call vpon thee as he himselfe hath taught vs, saying: <hi>Our Father which art in Heauen, &amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
